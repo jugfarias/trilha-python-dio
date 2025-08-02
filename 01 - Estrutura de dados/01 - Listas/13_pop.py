@@ -1,3 +1,5 @@
+# remove um item da lista, se não tiver argumento (índice do objeto), remove o primeiro objeto
+
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 print(linguagens.pop())  # csharp
